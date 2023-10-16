@@ -39,7 +39,7 @@ Please access the full dataset via Google Drive: [link](https://drive.google.com
 If you would like to use these samples, please cite us:
 
 ```
-@inproceedings{hou2023maraudermap,
+@inproceedings{hou2024maraudermap,
   title = {An Empirical Study of Data Disruption by Ransomware Attacks},
   author = {Hou, Yiwei and Guo, Lihua and Zhou, Chijin and Xu, Yiwen and Yin, Zijing and Li, Shanshan and Sun, Chengnian and Jiang, Yu},
   booktitle = {The 46th International Conference on Software Engineering (ICSE'24)},
